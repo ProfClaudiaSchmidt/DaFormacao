@@ -1,18 +1,18 @@
-h1 {
-    color:blueviolet
-}
-h2 {
-    color: red
+h2 {color: red;
 }
 
-h3 {
-    border-width:10px;
-    border-style: solid;
-    border-color:red;
-    padding: 20px;
+body {background-color: #00aa77
 }
 
-body {
-    background-color:aquamarine
+h3 { border-width:4px;
+	border-style: solid;
+	border-color: #ff0000;
+	padding: 4px;
+	margin: 100px;
+  }
+
+h3 {text-align: center;
 }
 
+#imagem-principal {width: 70%
+}
