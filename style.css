@@ -9,6 +9,7 @@ h3 {
     border-width:10px;
     border-style: solid;
     border-color:red;
+    padding: 20px;
 }
 
 body {
