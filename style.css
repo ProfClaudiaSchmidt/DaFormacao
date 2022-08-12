@@ -6,9 +6,12 @@ h2 {
 }
 
 h3 {
-    font-size: 40px
+    border-width:10px;
+    border-style: solid;
+    border-color:red;
 }
 
 body {
     background-color: chocolate;
 }
+
