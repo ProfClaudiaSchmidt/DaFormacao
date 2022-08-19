@@ -11,11 +11,15 @@ h3 { border-width:4px;
 	margin: 100px;
   }
 
-h3 {text-align: center;
+h3 {text-align: center; color: aqua;
 }
 
 .texto-um {background-color: rgb(250, 136, 136);
 
 }
+.texto-dois {
+	background-color: blue;
+}
+
 #imagem-principal {width: 10%
 }
